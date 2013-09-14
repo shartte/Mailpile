@@ -40,6 +40,13 @@ or use the following command to ask Python to do the work for you:
 You also need your e-mail to be in a traditional mbox formatted Unix
 mailbox, a Maildir or a gmvault backup repository.
 
+To run Mailpile on Windows, you need to manually download the appropriate
+lxml installer from <https://pypi.python.org/pypi/lxml/3.2.3>, then
+install pip as outlined here <http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows>
+and run:
+
+    $ pip install -r requirements-win32.txt
+
 
 ## Setting up the basic config ##
 

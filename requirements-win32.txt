@@ -1,0 +1,4 @@
+lxml
+http://sourceforge.net/projects/py-gnupg/files/GnuPGInterface/0.3.2/GnuPGInterface-0.3.2.tar.gz
+# pyreadline is required on Windows for compatibility, since GNU readline is usually unavailable
+pyreadline
